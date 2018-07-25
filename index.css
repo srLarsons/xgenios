@@ -1,0 +1,214 @@
+#heading {
+	height: 50px;
+	width:auto;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 5px #888888;
+	background-position:0px 0px;
+	margin-top:0px;
+	background-color:#FFFFFF;
+}
+#heading #innerhead {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	position:relative;
+}
+#heading #innerhead #lefthead {
+	background-color: #CC33FF;
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	background-image: url(images/logo.jpg);
+}
+#heading #innerhead #menubar {
+	float: right;
+	height: 50px;
+	width: 400px;
+	margin-right: 20px;
+	border-radius:10px;
+	
+}
+#mainbody {
+	height: 760px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+}
+#bottom {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#bottom #bmiddle {
+	background-color: #999999;
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius:10px;
+}
+#mainbody #upperbody {
+	height: 350px;
+	width: 960px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	border-radius:10px;
+	background-image: url(images/homepageheadingpic.jpg);
+}
+#mainbody #middlebody {
+	background-color: #999999;
+	height: 200px;
+	width: 960px;
+	margin-top: 25px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	border-radius:10px;
+	background-image: url(images/homemiddle.jpg);
+}
+@charset "utf-8";
+#iconbody {
+	height: 150px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#iconbody #ibleft {
+	float: left;
+	height: 150px;
+	width: 480px;
+	margin-left: 20px;
+}
+#iconbody #ibright {
+	float: right;
+	height: 150px;
+	width: 480px;
+	margin-right: 20px;
+}
+#iconbody #ibleft #iblleft {
+	float: left;
+	height: 150px;
+	width: 160px;
+	margin-left: 0px;
+}
+#iconbody #ibleft #iblright {
+	float: right;
+	height: 150px;
+	width: 320px;
+	margin-right: 0px;
+}
+#iconbody #ibleft #iblright #iblrleft {
+	float: left;
+	height: 150px;
+	width: 160px;
+	margin-left: 0px;
+}
+#iconbody #ibleft #iblright #iblrright {
+	float: right;
+	height: 150px;
+	width: 160px;
+	margin-right: 0px;
+}
+#iconbody #ibright #ibrleft {
+	float: left;
+	height: 150px;
+	width: 160px;
+	margin-left: 0px;
+}
+#iconbody #ibright #ibrright {
+	float: right;
+	height: 150px;
+	width: 320px;
+	margin-right: 0px;
+}
+#iconbody #ibright #ibrright #ibrrleft {
+	float: left;
+	height: 150px;
+	width: 160px;
+	margin-left: 0px;
+}
+#iconbody #ibright #ibrright #ibrrright {
+	float: right;
+	height: 150px;
+	width: 160px;
+	margin-right: 0px;
+}
+#iconbody #ibleft #iblleft #hov1 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkiossmall.jpg);
+}
+#iconbody #ibleft #iblright #iblrleft #hov2 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkandroidsmall.jpg);
+}
+#iconbody #ibleft #iblright #iblrright #hov3 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkdotnetsmall.jpg);
+}
+#iconbody #ibright #ibrleft #hov4 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkccsmall.jpg);
+}
+#iconbody #ibright #ibrright #ibrrleft #hov5 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkphpsmall.jpg);
+}
+#iconbody #ibright #ibrright #ibrrright #hov6 {
+	background-color: #6600CC;
+	height: 135px;
+	width: 145px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	box-shadow: 10px 10px 5px #999999;
+	background-image:url(images/tkgdsmall.jpg);
+}
+#mainbody #bodytop4rspc {
+	height: 5px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}

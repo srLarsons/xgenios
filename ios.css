@@ -1,0 +1,112 @@
+#heading {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 5px 5px 5px #888888;
+	background-color:#FFFFFF;
+	opacity:0.9;
+	}
+#heading #innerhead {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#heading #innerhead #lefthead {
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	background-image: url(images/logo.jpg);
+}
+#heading #innerhead #menubar {
+	float: right;
+	height: 50px;
+	width: 400px;
+	margin-right: 20px;
+	border-radius:25px;	
+}
+#mainbody {
+	height: 650px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+	
+}
+#bottom {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#bottom #bmiddle {
+	background-color: #999999;
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	opacity:0.9;
+	border-radius:10px;
+}
+#mainbody #bodytop {
+	height: 50px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:20px;
+}
+#mainbody #bodytop #ios {
+	height: 50px;
+	width: 150px;
+	margin-left: 10px;
+	border-radius:25px;
+	box-shadow:10px 10px 5px #999999;
+	background-image: url(images/titleios.jpg);
+}
+#mainbody #ioscontent {
+	height: 600px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	border-radius:10px;
+	
+}
+#mainbody #top {
+	height: 10px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbody #ioscontent #icuper {
+	height: 5px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbody #ioscontent #icloer {
+	height: 600px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius:10px;
+}
+#mainbody #ioscontent #icloer #ioscleft {
+	float: left;
+	height: 500px;
+	width: 580px;
+	margin-left: 10px;
+	opacity:0.5;
+	background-color: #FFFFFF;
+	border-radius:10px;
+}
+#mainbody #ioscontent #icloer #iosright {
+	float: right;
+	height: 500px;
+	width: 360px;
+	margin-right: 0px;
+	background-image: url(images/iphonepic.jpg);
+}

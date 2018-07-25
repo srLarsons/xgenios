@@ -1,0 +1,37 @@
+#heading {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 5px #888888;
+}
+#heading #innerhead {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#heading #innerhead #lefthead {
+	background-color: #CC33FF;
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	background-image: url(images/logo.jpg);
+}
+#heading #innerhead #menubar {
+	float: right;
+	height: 50px;
+	width: 400px;
+	margin-right: 20px;
+	border-radius:10px;
+	
+}
+#mainbody {
+	background-color: #9999FF;
+	height: 800px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}

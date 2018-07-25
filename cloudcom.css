@@ -1,0 +1,99 @@
+#heading {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 5px #888888;
+	background-color:#FFFFFF;
+}
+#heading #innerhead {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#heading #innerhead #lefthead {
+	background-color: #CC33FF;
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	background-image: url(images/logo.jpg);
+}
+#heading #innerhead #menubar {
+	float: right;
+	height: 50px;
+	width: 400px;
+	margin-right: 20px;
+	border-radius:10px;
+	
+}
+#mainbody {
+	height: 650px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+}
+#bottom {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#bottom #bmiddle {
+	background-color: #999999;
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius:10px;
+}
+#mainbody #bodytop {
+	height: 50px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:20px;
+}
+#mainbody #bodytop #ios {
+	height: 50px;
+	width: 150px;
+	margin-left: 10px;
+	border-radius:25px;
+	background-image: url(images/titlecc.jpg);
+	box-shadow:5px 5px 5px #999999;
+}
+#mainbody #ioscontent {
+	height: 500px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	border-radius:10px;
+	
+}
+#mainbody #top {
+	height: 10px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbody #ioscontent #cccontent {
+	background-color: #CCCCCC;
+	float: left;
+	height: 500px;
+	width: 580px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius:10px;
+	opacity:0.5;
+}
+#mainbody #ioscontent #cccontentright {
+	float: right;
+	height: 500px;
+	width: 360px;
+	margin-right: 0px;
+	background-image: url(images/ccbodypic.jpg);
+}

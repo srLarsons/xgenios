@@ -1,0 +1,108 @@
+#heading {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #FFFFFF;
+}
+#heading #innerhead {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#heading #innerhead #lefthead {
+	background-color: #CC33FF;
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	background-image: url(images/logo.jpg);
+}
+#heading #innerhead #menubar {
+	float: right;
+	height: 50px;
+	width: 400px;
+	margin-right: 20px;
+	border-radius:10px;
+	
+}
+#mainbody {
+	height: 800px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+	
+}
+#bottom {
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+#bottom #bmiddle {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #999999;
+	border-radius:10px;
+}#mainbody #googleMap {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position:inherit;
+}
+#mainbody #pinaraoi {
+	height: 10px;
+	width: 1000px;
+}
+#mainbody #cntactmiddlebody {
+	height: 300px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#mainbody #cntactmiddlebody #socialnetworking {
+	height: 50px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbody #cntactmiddlebody #socialnetworking #facebook {
+	background-image: url(images/facebookpng.jpg);
+	float: right;
+	height: 50px;
+	width: 50px;
+	margin-right: 0px;
+}
+#mainbody #cntactmiddlebody #contactdetails {
+	height: 250px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbody #cntactmiddlebody #contactdetails #contactpic {
+	float: left;
+	height: 250px;
+	width: 250px;
+	margin-left: 0px;
+	margin-right: 20px;
+	background-image: url(images/contactpic1.jpg);
+	border-radius:10px;
+
+}
+#mainbody #cntactmiddlebody #contactdetails #matterforcontact {
+	float: right;
+	height: 250px;
+	width: 680px;
+	margin-right: 0px;
+	border-radius:10px;
+	background-color: #FFFFFF;
+}
